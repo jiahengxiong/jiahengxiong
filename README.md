@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://streak-stats.demolab.com?user=jiahengxiong&theme=onedark&hide_border=true&card_width=438&card_height=220)](https://git.io/streak-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=jiahengxiong&theme=onedark&no-frame=true&row=2&column=3&rank=SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
 
+## Publications
+I do some intersetiong research work under supervision of Prof. Massimo Tornatore and Dr. Qiaolun Zhang in Quantum Internet and optical Communication, and write several paper during my free time.
 
 
 
