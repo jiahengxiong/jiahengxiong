@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 [![Jiaheng's GitHub stats](https://github-readme-stats.vercel.app/api/?username=jiahengxiong&count_private=true&theme=one_dark_pro&show_icons=true&layout=compact&hide=prs&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=jiahengxiong&count_private=true&theme=one_dark_pro&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=jiahengxiong&theme=onedark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=jiahengxiong&theme=onedark&hide_border=true)](https://git.io/streak-stats)
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jiahengxiong&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
