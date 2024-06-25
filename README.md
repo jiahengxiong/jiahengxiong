@@ -1,6 +1,7 @@
 ## Hi there is Jiaheng Xiong (熊嘉恒) 👋
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jiahengxiong&label=Profile%20views&color=0e75b6&style=flat" alt="jiahengxiong" /> </p>
 
+![Profile visiting]("https://komarev.com/ghpvc/?username=jiahengxiong&label=Profile%20views&color=0e75b6&style=flat")
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
 
 <!--
