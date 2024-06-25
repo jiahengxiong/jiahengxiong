@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 - 👯 I will be a PhD student in Bonsai Lab ...
 - ⚡ Fun fact: Singing and Reading ...
 
-
+[![Jiaheng's GitHub stats](https://github-readme-stats.vercel.app/api/?username=jiahengxiong&count_private=true&theme=one_dark_pro&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Jiaheng's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jiahengxiong&count_private=true&theme=one_dark_pro&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
