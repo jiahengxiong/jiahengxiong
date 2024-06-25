@@ -43,4 +43,5 @@ Here are some ideas to get you started:
   <a href="https://networkx.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/networkx/networkx-original.svg" alt="Networkx" width="40" height="40"/> </a> 
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.svgporn.com/logos/docker-icon.svg" alt="Docker" width="40" height="40"/> </a> 
   <a href="https://www.overleaf.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Overleaf_Logo.svg/900px-Overleaf_Logo.svg.png?20230114191046" alt="Overleaf" width="40" height="40"/> </a> 
+  <a href="https://www.iso.org/standard/74528.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/570px-C_Programming_Language.svg.png?20201031132917" alt="C" width="40" height="40"/> </a> 
 </p>
