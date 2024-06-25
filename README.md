@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 - 👯 I will be a PhD student in Bonsai Lab ...
 - ⚡ Fun fact: Singing and Reading ...
 
-[![Jiaheng's GitHub stats](https://github-readme-stats.vercel.app/api/?username=jiahengxiong&count_private=true&theme=one_dark_pro&show_icons=true&layout=compact&hide=prs&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=jiahengxiong&count_private=true&theme=one_dark_pro&show_icons=true&layout=compact&hide=javascript,css)](https://github.com/anuraghazra/github-readme-stats)
+[![Jiaheng's GitHub stats](https://github-readme-stats.vercel.app/api/?username=jiahengxiong&count_private=true&theme=one_dark_pro&show_icons=true&layout=compact&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=jiahengxiong&count_private=true&theme=one_dark_pro&show_icons=true&layout=compact&hide=css)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=jiahengxiong&theme=onedark&hide_border=true&card_width=438&card_height=220)](https://git.io/streak-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=jiahengxiong&theme=onedark&no-frame=true&row=2&column=3&rank=SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
 
