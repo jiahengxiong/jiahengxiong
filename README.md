@@ -40,4 +40,5 @@ Here are some ideas to get you started:
   <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" alt="pycharm" width="40" height="40"/> </a> 
   <a href="https://www.kali.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" alt="kali" width="40" height="40"/> </a> 
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VScode" width="40" height="40"/> </a> 
+  <a href="https://networkx.org/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/NetworkX.svg" alt="Networkx" width="40" height="40"/> </a> 
 </p>
