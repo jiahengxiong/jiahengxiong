@@ -1,8 +1,5 @@
 ## Hi there is Jiaheng Xiong (熊嘉恒) 👋
-
 ![](https://komarev.com/ghpvc/?username=jiahengxiong&color=blue)
-
-
 <!--
 **jiahengxiong/jiahengxiong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
