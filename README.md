@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Singing and Reading ...
 
 
-[![Jiaheng's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiahengxiong&count_private=true&theme=tokyonight&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Jiaheng's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiahengxiong&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
