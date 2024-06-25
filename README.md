@@ -27,7 +27,10 @@ Here are some ideas to get you started:
 [![trophy](https://github-profile-trophy.vercel.app/?username=jiahengxiong&theme=onedark&no-frame=true&row=2&column=3&rank=SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Publications
-I do some intersetiong research work under supervision of Prof. Massimo Tornatore and Dr. Qiaolun Zhang in Quantum Internet and optical Communication, and write several paper during my free time.
+I do some interesting [research work](https://scholar.google.com/citations?hl=zh-CN&user=33E79Q0AAAAJ) under supervision of Prof. Massimo Tornatore and Dr. Qiaolun Zhang in Quantum Internet and optical Communication, and write several paper during my free time. There is my publication list.
+
+* **Jiaheng Xiong**, et al. "Shared-Protected Backup Paths Assignment with Mode Group Division Multiplexing in Optical Networks" _2024 European Conference on Optical Communication (ECOC)_. (Under Review)
+* [**Xiong, Jiaheng**, et al. "Adaptive Entanglement Routing for Quantum Networks with Cutoff." _2023 19th International Conference on Network and Service Management (CNSM). IEEE, 2023._](https://ieeexplore.ieee.org/abstract/document/10327909)
 
 
 
