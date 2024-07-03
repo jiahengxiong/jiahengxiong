@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 [![trophy](https://github-profile-trophy.vercel.app/?username=jiahengxiong&theme=onedark&no-frame=true&row=2&column=3&rank=SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## :mailbox: News 
-#### :newspaper: Our paper ["Shared-Protected Backup Paths Assignment with Mode Group Division Multiplexing in Optical Networks"](https://arxiv.org/pdf/2407.02404) was accepted at [ECOC 2024](https://www.ecoc2024.org/)!
+**Jul 3, 2024** :newspaper: Our paper ["Shared-Protected Backup Paths Assignment with Mode Group Division Multiplexing in Optical Networks"](https://arxiv.org/pdf/2407.02404) was accepted at [ECOC 2024](https://www.ecoc2024.org/)!
 ## Publications
 I do some interesting [research work](https://scholar.google.com/citations?hl=zh-CN&user=33E79Q0AAAAJ) under supervision of [Prof. Massimo Tornatore](https://tornatore.faculty.polimi.it/) and [Dr. Qiaolun Zhang](https://qiaolunzhang.github.io/) in Network Design and Optimization, and write several paper in my free time. There is my publication list.
 
