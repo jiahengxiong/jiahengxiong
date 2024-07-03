@@ -1,5 +1,5 @@
 ## Hi there is Jiaheng Xiong (熊嘉恒) 👋
-![](https://komarev.com/ghpvc/?username=jiahengxiong&color=blue)
+![](https://komarev.com/ghpvc/?username=jiahengxiong&color=red) ![Language](https://img.shields.io/badge/language-python-blue)
 <!--
 **jiahengxiong/jiahengxiong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://streak-stats.demolab.com?user=jiahengxiong&theme=onedark&hide_border=true&card_width=438&card_height=220)](https://git.io/streak-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=jiahengxiong&theme=onedark&no-frame=true&row=2&column=3&rank=SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
 
+## :mailbox: News
+:newspaper: Our paper "Shared-Protected Backup Paths Assignment with Mode Group Division Multiplexing in Optical Networks" was accepted at ECOC 2024!
 ## Publications
 I do some interesting [research work](https://scholar.google.com/citations?hl=zh-CN&user=33E79Q0AAAAJ) under supervision of [Prof. Massimo Tornatore](https://tornatore.faculty.polimi.it/) and [Dr. Qiaolun Zhang](https://qiaolunzhang.github.io/) in Network Design and Optimization, and write several paper in my free time. There is my publication list.
 
