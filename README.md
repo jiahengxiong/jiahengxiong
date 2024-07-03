@@ -27,12 +27,13 @@ Here are some ideas to get you started:
 [![trophy](https://github-profile-trophy.vercel.app/?username=jiahengxiong&theme=onedark&no-frame=true&row=2&column=3&rank=SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## :mailbox: News 
-**Jul 3, 2024** :newspaper: Our paper ["Shared-Protected Backup Paths Assignment with Mode Group Division Multiplexing in Optical Networks"](https://arxiv.org/pdf/2407.02404) was accepted at [ECOC 2024](https://www.ecoc2024.org/)!
+* **Jul 3, 2024** :newspaper: Our paper ["Shared-Protected Backup Paths Assignment with Mode Group Division Multiplexing in Optical Networks"](https://arxiv.org/pdf/2407.02404) was accepted at [ECOC 2024](https://www.ecoc2024.org/)!
+
 ## Publications
 I do some interesting [research work](https://scholar.google.com/citations?hl=zh-CN&user=33E79Q0AAAAJ) under supervision of [Prof. Massimo Tornatore](https://tornatore.faculty.polimi.it/) and [Dr. Qiaolun Zhang](https://qiaolunzhang.github.io/) in Network Design and Optimization, and write several paper in my free time. There is my publication list.
 
-* **Jiaheng Xiong**, et al. "Shared-Protected Backup Paths Assignment with Mode Group Division Multiplexing in Optical Networks" _2024 European Conference on Optical Communication (ECOC)_. (Accepted)
-* [**Xiong, Jiaheng**, et al. "Adaptive Entanglement Routing for Quantum Networks with Cutoff." _2023 19th International Conference on Network and Service Management (CNSM). IEEE, 2023._](https://ieeexplore.ieee.org/abstract/document/10327909)
+1. **Jiaheng Xiong**, et al. "Shared-Protected Backup Paths Assignment with Mode Group Division Multiplexing in Optical Networks" _2024 European Conference on Optical Communication (ECOC)_. (Accepted)
+2. [**Xiong, Jiaheng**, et al. "Adaptive Entanglement Routing for Quantum Networks with Cutoff." _2023 19th International Conference on Network and Service Management (CNSM). IEEE, 2023._](https://ieeexplore.ieee.org/abstract/document/10327909)
 
 
 
