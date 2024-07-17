@@ -47,7 +47,7 @@ I do some interesting [research work](https://scholar.google.com/citations?hl=zh
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
   <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://vectorwiki.com/images/t5NLV__pycharm.svg" alt="pycharm" width="40" height="40"/> </a> 
-  <a href="https://www.kali.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/blob/master/Papirus/64x64/apps/distributor-logo-kali-linux.svg" alt="kali" width="40" height="40"/> </a> 
+  <a href="https://www.kali.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original-wordmark.svg" alt="kali" width="40" height="40"/> </a> 
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VScode" width="40" height="40"/> </a> 
   <a href="https://networkx.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/networkx/networkx-original.svg" alt="Networkx" width="40" height="40"/> </a> 
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.svgporn.com/logos/docker-icon.svg" alt="Docker" width="40" height="40"/> </a> 
