@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 
 [![Jiaheng's GitHub stats](https://github-readme-stats.vercel.app/api/?username=jiahengxiong&count_private=true&theme=one_dark_pro&bg_color=00000000&hide_border=true&show_icons=true&layout=compact&hide=issues,prs)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=jiahengxiong&count_private=true&theme=one_dark_pro&bg_color=00000000&hide_border=true&show_icons=true&layout=compact&hide=javascript,css)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=jiahengxiong&theme=onedark&hide_border=true&card_width=438&card_height=220)](https://git.io/streak-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=jiahengxiong&theme=onedark&no-frame=true&row=2&column=3&rank=SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Streak](https://streak-stats.demolab.com?user=jiahengxiong&background=00000000&hide_border=true&theme=onedark&hide_border=true&card_width=438&card_height=220)](https://git.io/streak-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=jiahengxiong&background=00000000&theme=onedark&no-frame=true&hide_border=true&row=2&column=3&rank=SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## :mailbox: News 
 * :newspaper: **Jul 3, 2024,** Our paper ["Shared-Protected Backup Paths Assignment with Mode Group Division Multiplexing in Optical Networks"](https://arxiv.org/pdf/2407.02404) was accepted at [ECOC 2024](https://www.ecoc2024.org/)!
