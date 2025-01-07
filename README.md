@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 [![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=jiahengxiong&count_private=true&theme=one_dark_pro&bg_color=00000000&hide_border=true&show_icons=true&layout=compact&hide=javascript,css)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=jiahengxiong&background=00000000&hide_border=true&theme=onedark&hide_border=true&card_width=438&card_height=220)](https://git.io/streak-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=jiahengxiong&no-bg=true&theme=onedark&no-frame=true&hide_border=true&row=2&column=3&rank=SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
-[![Jiaheng's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jiahengxiong&theme=react&bg_color=00000000&hide_border=true&title_color=87CEEB&line=87CEEB&area=true&color=87CEEB)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## :mailbox: News 
 * :newspaper: **Jul 3, 2024,** Our paper ["Shared-Protected Backup Paths Assignment with Mode Group Division Multiplexing in Optical Networks"](https://arxiv.org/pdf/2407.02404) was accepted at [ECOC 2024](https://www.ecoc2024.org/)!
@@ -57,4 +56,6 @@ I do some interesting [research work](https://scholar.google.com/citations?hl=zh
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
   <a href="https://keras.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original-wordmark.svg" alt="Keras" width="40" height="40"/> </a>
 </p>
+
+[![Jiaheng's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jiahengxiong&theme=react&bg_color=00000000&hide_border=true&title_color=87CEEB&line=87CEEB&area=true&color=87CEEB)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
